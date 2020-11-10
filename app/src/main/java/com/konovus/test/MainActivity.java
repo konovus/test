@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("hi GitHub, and back...");
         System.out.println("...starting with master, finishing with another, ... sout");
+        System.out.println("from master");
     }
 }
